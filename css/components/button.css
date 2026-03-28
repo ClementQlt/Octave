@@ -1,0 +1,17 @@
+.btn-blue {
+	background-color: #1C0770;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+	transition: background-color 0.3s ease, opacity 0.3s ease;
+    display: inline-block;
+}
+
+.btn-blue:hover {
+  background-color: #2a0ba3;
+  color: #f0f0f0;
+  text-decoration: none;
+}
+
